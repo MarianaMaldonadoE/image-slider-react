@@ -1,0 +1,22 @@
+export const SliderData = [
+    {
+      image:
+        'https://www.envimedia.co/wp-content/uploads/2022/02/nct-glitch-mode.jpg'
+    },
+    {
+      image:
+        'https://wallpapers.com/images/featured/3z5rorylddkqdlcf.jpg'
+    },
+    {
+      image:
+        'https://wallpapercave.com/wp/wp7858559.jpg'
+    },
+    {
+      image:
+        'https://wallpaperaccess.com/full/5189405.jpg'
+    },
+    {
+      image:
+        'https://wallpapers.com/images/hd/nct-127-in-nct-2021-ef4jnb8ig9rd390s.jpg'
+    }
+  ];
